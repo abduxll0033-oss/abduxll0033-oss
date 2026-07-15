@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Abdul Wahab L Banner">
+  <img src="banner.png.png" width="100%" alt="Abdul Wahab L Banner">
 </p>
 
 <h1 align="center">
