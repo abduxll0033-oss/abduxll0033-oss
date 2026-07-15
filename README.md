@@ -46,6 +46,7 @@ Career Goal:
 
 Location:
   Coimbatore, India
+```
 ## 🛠️ Tech Stack
 
 <p align="center">
