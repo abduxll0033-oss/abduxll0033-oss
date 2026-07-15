@@ -1,4 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png.png" alt="Abdul Wahab L Banner" width="100%">
+</p>
+
+<br>
+
+<h1 align="center">👋 Hi, I'm Abdul Wahab L</h1>
+
+...<div align="center">
 
 # 👋 Hi, I'm Abdul Wahab L
 
