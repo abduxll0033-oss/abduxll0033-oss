@@ -21,3 +21,28 @@ Turning Data into Decisions 📊
 ---
 
 ## 💎 About Me
+```yaml
+Name: Abdul Wahab L
+
+Education:
+  B.Sc. Data Science & Analytics
+
+Current Status:
+  Final Year Student
+
+Currently Learning:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+
+Skills:
+  - Python
+  - SQL
+  - Excel
+  - Power BI
+
+Career Goal:
+  Become a Data Scientist / AI Engineer
+
+Location:
+  Coimbatore, India
