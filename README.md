@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abduxll0033-oss/abduxll0033-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdul Wahab L
 
-Here are some ideas to get you started:
+### 🚀 Data Science & Analytics Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Science+Student;Future+AI+Engineer" alt="Typing SVG" />
+
+<br>
+
+> **Turning Data into Decisions 📊**
+
+</div>
+
+---
+
+## 💎 About Me
+
+🎓 Final Year B.Sc. Data Science & Analytics Student
+
+🐍 Learning Python, Machine Learning & AI
+
+📊 Passionate about Data Analytics & Visualization
+
+🚀 Building projects with Python, SQL, Excel and Power BI
+
+🌱 Currently exploring Deep Learning & Generative AI
+
+🎯 Goal: Become a Data Scientist / AI Engineer
+
+---
